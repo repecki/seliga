@@ -1,0 +1,24 @@
+.corpo{
+    background-color: blue;
+    color: black;
+    text-align: center;
+    border: 10px;
+    border-style: groove;
+    border-color: beige;
+}
+
+p{
+    color: darkmagenta;
+    font-size: 20px;
+}
+
+#link{
+    color: darkred;
+    text-decoration: none;
+}
+
+#link:hover{
+    color:forestgreen;
+    font-size: 15px ;
+
+}
