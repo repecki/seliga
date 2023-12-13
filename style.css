@@ -7,6 +7,12 @@
     border-color: beige;
 }
 
+#imagem-estudante{
+    border:solid 10px red;
+    width: 500px;
+    height: 300px;
+}
+
 p{
     color: darkmagenta;
     font-size: 20px;
